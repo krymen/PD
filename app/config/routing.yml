@@ -1,0 +1,5 @@
+p_walkow_game:
+    resource: "@PWalkowGameBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
